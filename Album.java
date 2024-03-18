@@ -3,14 +3,12 @@ public class Album {
     private int anoLancamento;
     private String[] musicas;
 
-    // Construtor
     public Album(String nome, int anoLancamento, String[] musicas) {
         this.nome = nome;
         this.anoLancamento = anoLancamento;
         this.musicas = musicas;
     }
 
-    // Getters e Setters
     public String getNome() {
         return nome;
     }
