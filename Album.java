@@ -1,14 +1,16 @@
 public class Album {
     private String nome;
     private int anoLancamento;
-    private String[] musicas;
+    private Musica[] musicas; // Array de objetos do tipo Musica
 
-    public Album(String nome, int anoLancamento, String[] musicas) {
+    // Construtor
+    public Album(String nome, int anoLancamento, Musica[] musicas) {
         this.nome = nome;
         this.anoLancamento = anoLancamento;
         this.musicas = musicas;
     }
 
+    // Getters e Setters
     public String getNome() {
         return nome;
     }
@@ -25,11 +27,11 @@ public class Album {
         this.anoLancamento = anoLancamento;
     }
 
-    public String[] getMusicas() {
+    public Musica[] getMusicas() {
         return musicas;
     }
 
-    public void setMusicas(String[] musicas) {
+    public void setMusicas(Musica[] musicas) {
         this.musicas = musicas;
     }
 }
