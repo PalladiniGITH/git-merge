@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="tarefa-2" />
+        <entry key="$PROJECT_DIR$" value="tarefa-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,6 +47,7 @@
 }</component>
   <component name="ProjectId" id="2dsnPkwwrjt05e0Nzv561oU157K" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -88,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710806294319</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Album pronto">
+      <option name="closed" value="true" />
+      <created>1710808020996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710808020996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Album feito" />
+    <MESSAGE value="Album apos criar classe musica" />
     <MESSAGE value="Album pronto" />
     <option name="LAST_COMMIT_MESSAGE" value="Album pronto" />
   </component>
